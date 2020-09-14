@@ -20,3 +20,6 @@ while True:
 
 
 print ("Hello world")
+
+# I think i have done many things with git
+# this is just message from local machine to remote repo
